@@ -1,0 +1,24 @@
+.vscode/
+
+# Build files
+*.o
+
+# Program names
+megaphone
+phonebook
+brainz
+horde
+str
+weapon
+replace
+harl
+fixed00
+fixed01
+fixed02
+claptrap
+scavtrap
+fragtrap
+diamondtrap
+animal
+brain
+abstract
