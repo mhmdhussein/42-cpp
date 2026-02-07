@@ -22,6 +22,7 @@ Each module focuses on different aspects of C++ programming, including OOP, memo
 ├── Module 08/
 ├── Module 09/
 ├── .gitignore
+├── LICENSE
 └── README.md
 
 ````
